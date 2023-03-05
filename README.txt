@@ -1,0 +1,1 @@
+This repository contains Matlab code for running simulations of the Slider Game.
